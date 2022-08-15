@@ -10,7 +10,7 @@ namespace MethodOverloading
         {
             return a + b;   
         }
-        public static decimal Add(decimal a, decimal b)
+        public static double Add(double a, double b)
         {
             return a + b;
         }
